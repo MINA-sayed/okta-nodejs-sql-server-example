@@ -1,6 +1,5 @@
 # Build a Node.js App using SQL Server Step-By-Step
 
-This is the source code for a video tutorial. 
 
 ## Requirements
 
